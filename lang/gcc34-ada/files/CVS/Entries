@@ -1,0 +1,20 @@
+/4netbsdintnam.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsd64osinte.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsd64system.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdintman.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdosinte.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdosinte.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdparame.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdsystem.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdtaprop.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdtasinf.ads/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/5netbsdtpopse.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/7netbsdtpopsp.adb/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/ada/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/ada_lwp_self.c/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/adasignal.c/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/baseline_symbols.txt/1.3/Mon Nov  8 16:46:27 2004//Tpkgsrc-2007Q4
+/baseline_symbols64.txt/1.2/Mon Jul 26 17:28:40 2004//Tpkgsrc-2007Q4
+/dummy_pthreads.c/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+/netbsd64macro.dfs/1.1.1.1/Tue Jun 29 18:00:17 2004//Tpkgsrc-2007Q4
+D

@@ -1,0 +1,12 @@
+/Makefile/1.12/Mon Aug 27 10:08:29 2007//Tpkgsrc-2007Q4
+/cpuflags.1/1.18/Tue Aug 21 15:43:46 2007//Tpkgsrc-2007Q4
+/cpuflags.mk/1.17/Fri Sep 15 14:37:32 2006//Tpkgsrc-2007Q4
+/cpuflags.sh/1.3/Mon Aug 27 10:09:22 2007//Tpkgsrc-2007Q4
+/optimize_gcc.mk/1.35/Thu Sep 20 10:19:03 2007//Tpkgsrc-2007Q4
+/subr_FreeBSD/1.2/Mon Aug 27 10:08:29 2007//Tpkgsrc-2007Q4
+/subr_Linux/1.1/Mon Aug 20 11:21:21 2007//Tpkgsrc-2007Q4
+/subr_NetBSD/1.2/Tue Sep 11 05:03:30 2007//Tpkgsrc-2007Q4
+/subr_SunOS/1.1/Mon Aug 20 11:21:21 2007//Tpkgsrc-2007Q4
+/subr_gcc/1.2/Mon Aug 27 10:08:30 2007//Tpkgsrc-2007Q4
+/subr_x86/1.2/Mon Aug 27 10:09:22 2007//Tpkgsrc-2007Q4
+D

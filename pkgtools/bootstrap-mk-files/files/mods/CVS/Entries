@@ -1,0 +1,24 @@
+/Darwin.bsd.lib.mk/1.2/Fri Aug 10 13:04:13 2007//Tpkgsrc-2007Q4
+/Darwin.bsd.man.mk/1.2/Sun Nov  4 08:08:52 2007//Tpkgsrc-2007Q4
+/Darwin.bsd.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/Darwin.sys.mk/1.2/Sat Nov 11 18:24:52 2006//Tpkgsrc-2007Q4
+/FreeBSD.bsd.man.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/IRIX.bsd.lib.mk/1.2/Fri Aug 10 13:04:13 2007//Tpkgsrc-2007Q4
+/IRIX.bsd.own.mk.in/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/IRIX.sys.mk/1.2/Sun Aug  6 18:59:41 2006//Tpkgsrc-2007Q4
+/Interix.bsd.lib.mk/1.2/Fri Aug 10 13:04:13 2007//Tpkgsrc-2007Q4
+/Interix.sys.mk/1.2/Sat Nov 11 18:24:52 2006//Tpkgsrc-2007Q4
+/Linux.bsd.lib.mk/1.2/Fri Aug 10 13:04:13 2007//Tpkgsrc-2007Q4
+/Linux.bsd.man.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/Linux.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/NetBSD.bsd.man.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/NetBSD.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/OSF1.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/OpenBSD.bsd.man.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/OpenBSD.bsd.own.mk.in/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/OpenBSD.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/SunOS.bsd.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/SunOS.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/UnixWare.sys.mk/1.2/Sat Nov 11 18:24:52 2006//Tpkgsrc-2007Q4
+/bsd.own.mk.in/1.2/Sat Aug 25 09:33:57 2007//Tpkgsrc-2007Q4
+D

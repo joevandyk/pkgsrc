@@ -1,0 +1,19 @@
+/CHANGES/1.1.1.1/Thu Aug  2 13:01:33 2007//Tpkgsrc-2007Q4
+/LICENSE/1.1.1.1/Thu Aug  2 13:01:33 2007//Tpkgsrc-2007Q4
+/Makefile/1.1/Thu Aug  2 13:04:42 2007//Tpkgsrc-2007Q4
+/README/1.1.1.1/Thu Aug  2 13:01:33 2007//Tpkgsrc-2007Q4
+/blocksort.c/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzip2.1/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzip2.c/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzip2recover.c/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzlib.c/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzlib.h/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzlib_private.h/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzmore/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/bzmore.1/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/compress.c/1.1.1.1/Thu Aug  2 13:01:34 2007//Tpkgsrc-2007Q4
+/crctable.c/1.1.1.1/Thu Aug  2 13:01:35 2007//Tpkgsrc-2007Q4
+/decompress.c/1.1.1.1/Thu Aug  2 13:01:35 2007//Tpkgsrc-2007Q4
+/huffman.c/1.1.1.1/Thu Aug  2 13:01:35 2007//Tpkgsrc-2007Q4
+/randtable.c/1.1.1.1/Thu Aug  2 13:01:35 2007//Tpkgsrc-2007Q4
+D

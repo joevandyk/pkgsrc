@@ -1,0 +1,16 @@
+/DEINSTALL/1.2/Mon Oct 15 15:37:13 2007//Tpkgsrc-2007Q4
+/DESCR/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/MESSAGE/1.2/Fri Aug 10 17:57:03 2007//Tpkgsrc-2007Q4
+/Makefile/1.23/Wed Oct 17 13:50:30 2007//Tpkgsrc-2007Q4
+/Makefile.common/1.8/Wed Oct 31 14:22:55 2007//Tpkgsrc-2007Q4
+/PLIST/1.6/Sun Sep 23 01:24:55 2007//Tpkgsrc-2007Q4
+/PLIST.dsn/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/PLIST.esmtp/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/PLIST.fax/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/PLIST.ldap/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/PLIST.local/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/PLIST.uucp/1.1.1.1/Fri Apr 28 18:10:21 2006//Tpkgsrc-2007Q4
+/distinfo/1.10/Wed Oct 17 13:50:30 2007//Tpkgsrc-2007Q4
+/options.mk/1.8/Fri Sep 21 14:12:19 2007//Tpkgsrc-2007Q4
+/pkginstall.mk/1.7/Sat Sep 22 04:42:03 2007//Tpkgsrc-2007Q4
+D

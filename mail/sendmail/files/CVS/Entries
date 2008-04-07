@@ -1,0 +1,14 @@
+/mailer.conf/1.2/Mon Jul 24 04:22:32 2000//Tpkgsrc-2007Q4
+/sendmail.sh/1.1/Tue Jun  6 22:03:36 2006//Tpkgsrc-2007Q4
+/site.config.m4/1.8/Sat Jan 20 20:08:32 2007//Tpkgsrc-2007Q4
+/site.config.m4-db2/1.5/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-db4/1.2/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-ldap/1.5/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-milter/1.2/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-sasl2/1.2/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-starttls/1.6/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-tcpwrappers/1.4/Mon Aug 30 20:21:51 2004//Tpkgsrc-2007Q4
+/site.config.m4-v6/1.3/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/site.config.m4-v6-not-solaris/1.2/Mon Aug 30 20:16:28 2004//Tpkgsrc-2007Q4
+/smmsp.sh/1.1/Tue Jun  6 22:03:36 2006//Tpkgsrc-2007Q4
+D

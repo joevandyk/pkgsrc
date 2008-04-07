@@ -1,0 +1,37 @@
+$NetBSD: CHANGES-pkgsrc-2007Q4,v 1.1.2.8 2008/02/19 11:31:15 ghen Exp $
+
+Changes to the packages collection and infrastructure on the
+pkgsrc-2007Q4 branch:
+
+Pullup ticket 2255 - requested by joerg
+build fix for erlang
+Pullup ticket 2257 - requested by joerg
+build fix for openssl
+Pullup ticket 2258 - requested by sketch
+build fix for libiconv
+Pullup ticket 2259 - requested by adam
+security updates for postgresql
+Pullup ticket 2260 - requested by tron
+security update for sun-jdk/jre15
+Pullup ticket 2264 - requested by adrianp
+security update for turba
+Pullup ticket 2265 - requested by adrianp
+security update for kronolith
+Pullup ticket 2266 - requested by adrianp
+security update for horde
+Pullup ticket 2267 - requested by adrianp
+security update for php4
+Pullup ticket 2268 - requested by adrianp
+security update for drupal
+Pullup ticket 2278 - requested by taca
+security update for apache2
+Pullup ticket 2281 - requested by drochner
+security fix for libsndfile
+Pullup ticket 2282 - requested by tron
+security update for apache22
+Pullup ticket 2287 - requested by drochner
+security fixes for mplayer and mencoder
+Pullup ticket 2288 - requested by martti
+latest update for clamav
+Pullup ticket 2290 - requested by obache
+security update for RealPlayerGold

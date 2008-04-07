@@ -1,0 +1,19 @@
+/TODO/1.6/Mon Dec  5 22:16:13 2005//Tpkgsrc-2007Q4
+/bsd.bulk-pkg.mk/1.147/Sun Dec  2 12:58:25 2007//Tpkgsrc-2007Q4
+/build/1.102/Fri Jun 15 15:52:22 2007//Tpkgsrc-2007Q4
+/build.conf-example/1.37/Tue Mar  6 10:57:11 2007//Tpkgsrc-2007Q4
+/do-sandbox-build/1.12/Wed Jul 13 22:07:46 2005//Tpkgsrc-2007Q4
+/do-sandbox-upload/1.5/Wed Jul 13 22:07:46 2005//Tpkgsrc-2007Q4
+/environment.txt/1.5/Fri Dec 15 13:15:06 2006//Tpkgsrc-2007Q4
+/mksandbox/1.46/Sat May 19 14:09:54 2007//Tpkgsrc-2007Q4
+/parallel.txt/1.7/Fri Dec 15 12:46:24 2006//Tpkgsrc-2007Q4
+/post-build/1.69/Sun Oct  7 12:59:13 2007//Tpkgsrc-2007Q4
+/post-build-conf/1.14/Tue Mar  6 10:57:11 2007//Tpkgsrc-2007Q4
+/pre-build/1.70/Sat Jul 21 12:48:31 2007//Tpkgsrc-2007Q4
+/printdepends/1.24/Mon Jan  8 21:36:07 2007//Tpkgsrc-2007Q4
+/printindex/1.30/Sun Dec 10 13:59:31 2006//Tpkgsrc-2007Q4
+/printindex.1/1.8/Sat Dec 23 08:11:30 2006//Tpkgsrc-2007Q4
+/sort-packages/1.11/Tue Oct  9 19:19:13 2007//Tpkgsrc-2007Q4
+/tflat/1.15/Wed Oct 26 16:54:04 2005//Tpkgsrc-2007Q4
+/upload/1.41/Tue Oct  9 19:19:13 2007//Tpkgsrc-2007Q4
+D

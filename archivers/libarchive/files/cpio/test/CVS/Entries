@@ -1,0 +1,23 @@
+/list.h/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/main.c/1.1.1.1/Fri Nov 30 21:25:26 2007//Tpkgsrc-2007Q4
+/test.h/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_basic.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_gcpio_compat.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_gcpio_compat_ref.bin/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_gcpio_compat_ref.crc/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_gcpio_compat_ref.newc/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_gcpio_compat_ref.ustar/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_help.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_B.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_d.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_m.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_m.cpio/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_t.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_t.cpio/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_t.stdout/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_option_tv.stdout/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_owner_parse.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_pathmatch.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_version.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+/test_write_odc.c/1.1.1.1/Fri Nov 30 21:25:27 2007//Tpkgsrc-2007Q4
+D

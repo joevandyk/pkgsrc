@@ -1,0 +1,18 @@
+/Makefile.in/1.5/Tue Aug  7 02:07:01 2007//Tpkgsrc-2007Q4
+/cmds.c/1.7/Sun Sep 23 16:47:19 2007//Tpkgsrc-2007Q4
+/cmdtab.c/1.5/Tue Aug  7 02:07:01 2007//Tpkgsrc-2007Q4
+/complete.c/1.4/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/domacro.c/1.5/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/extern.h/1.5/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/fetch.c/1.6/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/ftp.1/1.4/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/ftp.c/1.8/Sun Oct 28 10:40:36 2007//Tpkgsrc-2007Q4
+/ftp.cat1/1.4/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/ftp_var.h/1.5/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/main.c/1.7/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/progressbar.c/1.6/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/progressbar.h/1.4/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/ruserpass.c/1.5/Tue Aug  7 02:07:02 2007//Tpkgsrc-2007Q4
+/util.c/1.7/Tue Aug  7 02:07:03 2007//Tpkgsrc-2007Q4
+/version.h/1.6/Tue Aug  7 02:07:03 2007//Tpkgsrc-2007Q4
+D

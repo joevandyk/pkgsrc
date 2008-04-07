@@ -1,0 +1,22 @@
+/bootstrap.sh/1.1/Fri Jul 27 10:43:24 2007//Tpkgsrc-2007Q4
+/bsd.README/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.dep.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.depall.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.doc.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.files.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.hostprog.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.inc.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.info.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.kernobj.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.kinc.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.kmod.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.lib.mk/1.2/Fri Aug 10 13:04:13 2007//Tpkgsrc-2007Q4
+/bsd.links.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.man.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.nls.mk/1.1.1.1/Fri Jul 14 23:13:00 2006//Tpkgsrc-2007Q4
+/bsd.obj.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/bsd.prog.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/bsd.subdir.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/bsd.sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+/sys.mk/1.1.1.1/Fri Jul 14 23:13:01 2006//Tpkgsrc-2007Q4
+D

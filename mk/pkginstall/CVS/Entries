@@ -1,0 +1,21 @@
+/bsd.pkginstall.mk/1.38/Thu Dec 13 11:10:42 2007//Tpkgsrc-2007Q4
+/deinstall/1.2/Wed Jul 18 18:01:03 2007//Tpkgsrc-2007Q4
+/deinstall-pre/1.1/Sun May 21 23:50:15 2006//Tpkgsrc-2007Q4
+/dirs/1.3/Fri Dec 15 12:46:24 2006//Tpkgsrc-2007Q4
+/files/1.4/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/fonts/1.5/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/footer/1.1/Sun May 21 23:50:15 2006//Tpkgsrc-2007Q4
+/header/1.2/Wed Jul 19 22:26:26 2006//Tpkgsrc-2007Q4
+/info-files/1.4/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/install/1.2/Wed Jul 18 18:01:03 2007//Tpkgsrc-2007Q4
+/install-post/1.1/Sun May 21 23:50:15 2006//Tpkgsrc-2007Q4
+/perms/1.3/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/shell/1.4/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/shlibs/1.7/Fri Jul 27 18:37:35 2007//Tpkgsrc-2007Q4
+/usergroup/1.2/Wed Jul 19 22:26:26 2006//Tpkgsrc-2007Q4
+/usergroup-check/1.2/Fri Dec 15 12:46:24 2006//Tpkgsrc-2007Q4
+/usergroupfuncs/1.3/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/usergroupfuncs.DragonFly/1.3/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/usergroupfuncs.FreeBSD/1.3/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+/usergroupfuncs.Linux/1.3/Thu Jul 12 19:41:46 2007//Tpkgsrc-2007Q4
+D
