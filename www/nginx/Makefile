@@ -1,6 +1,7 @@
 # $NetBSD: Makefile,v 1.1.1.1 2007/12/11 09:12:26 ghen Exp $
 
 DISTNAME=		nginx-0.5.33
+PKGREVISION=            2-with-fair-balancer,stub-status
 CATEGORIES=		www
 MASTER_SITES=		http://sysoev.ru/nginx/
 
@@ -18,6 +19,9 @@ CONFIGURE_ARGS+=	--pid-path=${VARBASE}/run/nginx.pid
 CONFIGURE_ARGS+=	--error-log-path=${NGINX_LOGDIR}/error.log
 CONFIGURE_ARGS+=	--http-log-path=${NGINX_LOGDIR}/access.log
 CONFIGURE_ARGS+=	--with-mail
+CONFIGURE_ARGS+=	--add-module=added_modules/fair_balancer
+CONFIGURE_ARGS+=	--with-http_stub_status_module
+CONFIGURE_ARGS+=	--with-http_ssl_module
 
 .include "../../mk/bsd.prefs.mk"
 

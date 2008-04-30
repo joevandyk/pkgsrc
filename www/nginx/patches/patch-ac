@@ -1,0 +1,8 @@
+$NetBSD$
+
+--- added_modules/fair_balancer/config.orig	2008-04-30 00:14:44.767990295 +0000
++++ added_modules/fair_balancer/config
+@@ -0,0 +1,3 @@
++ngx_addon_name=ngx_http_upstream_fair_module
++HTTP_MODULES="$HTTP_MODULES ngx_http_upstream_fair_module"
++NGX_ADDON_SRCS="$NGX_ADDON_SRCS $ngx_addon_dir/ngx_http_upstream_fair_module.c"

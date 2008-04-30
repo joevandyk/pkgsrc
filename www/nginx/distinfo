@@ -3,4 +3,7 @@ $NetBSD: distinfo,v 1.1.1.1 2007/12/11 09:12:26 ghen Exp $
 SHA1 (nginx-0.5.33.tar.gz) = d8c321126c57d3a5cf06914541465bf44a6f3904
 RMD160 (nginx-0.5.33.tar.gz) = 1836b4019f450b562bbffade6ea2046f6b640062
 Size (nginx-0.5.33.tar.gz) = 485441 bytes
-SHA1 (patch-aa) = ffc4de0134bd3d1808bdd1462e4602a11159d996
+SHA1 (patch-aa) = f64f38468e5ba1d2ff46657f8d7ac61d6d29e270
+SHA1 (patch-ab) = 5cf7df6f3ed74dc02ff824ed3b29150ba746d27e
+SHA1 (patch-ac) = 45111d254fadbd0e310fb16986464b32d0b0100b
+SHA1 (patch-ad) = a584ebc2169512f24d8bf6583d9509b7e81f9b92
