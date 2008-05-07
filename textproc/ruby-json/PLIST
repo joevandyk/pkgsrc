@@ -1,0 +1,27 @@
+@comment $NetBSD$
+${RUBY_SITEARCHLIBDIR}/json/ext/generator.${RUBY_DLEXT}
+${RUBY_SITEARCHLIBDIR}/json/ext/parser.${RUBY_DLEXT}
+${RUBY_SITELIBDIR}/json.rb
+${RUBY_SITELIBDIR}/json/Array.xpm
+${RUBY_SITELIBDIR}/json/FalseClass.xpm
+${RUBY_SITELIBDIR}/json/Hash.xpm
+${RUBY_SITELIBDIR}/json/Key.xpm
+${RUBY_SITELIBDIR}/json/NilClass.xpm
+${RUBY_SITELIBDIR}/json/Numeric.xpm
+${RUBY_SITELIBDIR}/json/String.xpm
+${RUBY_SITELIBDIR}/json/TrueClass.xpm
+${RUBY_SITELIBDIR}/json/add/core.rb
+${RUBY_SITELIBDIR}/json/add/rails.rb
+${RUBY_SITELIBDIR}/json/common.rb
+${RUBY_SITELIBDIR}/json/editor.rb
+${RUBY_SITELIBDIR}/json/ext.rb
+${RUBY_SITELIBDIR}/json/json.xpm
+${RUBY_SITELIBDIR}/json/pure.rb
+${RUBY_SITELIBDIR}/json/pure/generator.rb
+${RUBY_SITELIBDIR}/json/pure/parser.rb
+${RUBY_SITELIBDIR}/json/version.rb
+@dirrm ${RUBY_SITELIBDIR}/json/pure
+@dirrm ${RUBY_SITELIBDIR}/json/add
+@dirrm ${RUBY_SITELIBDIR}/json
+@dirrm ${RUBY_SITEARCHLIBDIR}/json/ext
+@dirrm ${RUBY_SITEARCHLIBDIR}/json
